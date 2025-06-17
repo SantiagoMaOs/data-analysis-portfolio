@@ -4,6 +4,6 @@ portafolio en el que se encuentran algunos projectos que he realizado con base a
 ## Autor 
 **Santiago Martinez Ospina**
 
-* [Linkedin] (www.linkedin.com/in/santiago-martínez-ospina-40676636b)
+* [Linkedin] (https://www.linkedin.com/in/santiago-martínez-ospina)
 
 
