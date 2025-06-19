@@ -34,13 +34,13 @@ Dashboard interactivo en Power BI
 
 ## Graficos
 
-![grafico1](03.Figure_1.png)
+![grafico1](03. Figure_1.png)
 
-![grafico2](03.Figure_2.png)
+![grafico2](03. Figure_2.png)
 
-![grafico3](03.Figure_3.png)
+![grafico3](03. Figure_3.png)
 
-![grafico4](03.Figure_4.png)
+![grafico4](03. Figure_4.png)
 
 # Codigo
-[Ver el código Python](03.visualizacion(netflix_titles).py)
+[Ver el código Python](03.visualizacion (netflix_titles).py)
