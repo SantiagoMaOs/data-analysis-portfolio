@@ -34,7 +34,7 @@ Dashboard interactivo en Power BI
 
 ## Graficos
 
-![Gráfica de análisis](03. Figure_2.png)
+![grafico1](03.Figure_1.png)
 
 ![grafico2](03.Figure_2.png)
 
