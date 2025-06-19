@@ -7,6 +7,7 @@ Visualizar relaciones entre variables del catálogo de películas de Netflix y a
 ## Dataset
 
 [Netflix Movies](https://www.kaggle.com/datasets/shivamb/netflix-shows) 
+
 DatasetFiltrado para incluir solo películas (type = Movie)
 
 ## Herramientas utilizadas
@@ -31,5 +32,15 @@ Tendencia de duración con el tiempo
 
 Dashboard interactivo en Power BI
 
+## Graficos
 
+![grafico1](03.Figure_1.png)
 
+![grafico2](03.Figure_2.png)
+
+![grafico3](03.Figure_3.png)
+
+![grafico4](03.Figure_4.png)
+
+# Codigo
+[Ver el código Python](03.visualizacion(netflix_titles).py)
