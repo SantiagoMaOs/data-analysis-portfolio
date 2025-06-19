@@ -1,23 +1,24 @@
-#Proyecto 1: Limpieza y Transformación de Datos
+# 01 Limpieza y Transformación de Datos
 
-##Objetivo
+## Objetivo
 
 Limpiar y transformar un dataset de transacciones de clientes, corrigiendo errores comunes como valores nulos, duplicados y formatos inconsistentes.
 
-##Dataset
+## Dataset
 
-Dirty Data - Customer Transaction Dataset
-Incluye columnas como: Customer ID, Items, Quantity, Price Per Unit, Total Spent.
+[Dirty Data - Customer Transaction Dataset](https://www.kaggle.com/datasets/ahmedmohamed2003/retail-store-sales-dirty-for-data-cleaning) 
 
-##Herramientas utilizadas
+Incluye columnas como: Transaction ID,Customer ID,Category,Item,Price Per Unit,Quantity,Total Spent,Payment Method,Location,Transaction Date,Discount Applied
+
+## Herramientas utilizadas
 
 Python
+### Librerias 
+Pandas as pd
 
-Pandas
+NumPy as np
 
-NumPy
-
-##Proceso realizado
+## Proceso realizado
 
 Eliminación de duplicados
 
@@ -30,3 +31,4 @@ Creación de columnas derivadas
 Identificación de outliers
 
 Exportación a CSV limpio
+
