@@ -59,3 +59,8 @@ Las subcategorías más rentables son los telefonos (Phones)
 * Cubify CubeX 3D Printer Triple Head Print -3839.9904
 
 ### Nota: Análisis estadísticos avanzados se incluyen en el Proyecto 3.
+
+## Graficos
+
+![Ventas Totales por region](02.Figure_1.png)
+![Ventas Mensuales](02.Figure_2.png)
